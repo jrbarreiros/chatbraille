@@ -2,7 +2,7 @@
 
 ### Chat para auxiliar deficientes visuais a converterem palavras comuns no formato Braille
 
-🚀 Este projeto foi insperado na Imersão de Gen AI da Alura e no Projeto Social Enxergando o Futuro https://enxergandoofuturo.com.br, que sou volutário e disponibilizamos uma plataforma para o ensino do método Braille básico para pessoas com deficiência visual. Já impactamos a vida de mais de 400 pessoas através da nossa plataforma, atendendo alunos do Brasil, EUA, Cabo Verda, Suiça, Maçambique, Portugal entre outros.
+🚀 Este projeto foi inspirado na Imersão de Gen AI da Alura e no Projeto Social Enxergando o Futuro https://enxergandoofuturo.com.br, onde sou volutário e disponibilizamos uma plataforma para o ensino do método Braille básico para pessoas com deficiência visual. Já impactamos a vida de mais de 400 pessoas através da nossa plataforma, atendendo alunos do Brasil, EUA, Cabo Verda, Suiça, Maçambique, Portugal entre outros.
 
 📋 Pré-requisitos
 Ter uma API_KEY do google.generativeai
